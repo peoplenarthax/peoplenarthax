@@ -1,15 +1,17 @@
 # Angel Paredes Barato - @PeopleNArthax
 
-Hello everyone! My name is Angel and I am a full-stack developer who likes to play and experiment.
+Hello everyone! My name is Angel and I am a full-stack developer (more focus on FE but with a good system vision) who likes to play and experiment.
 
 ## What am I doing?
 
-WIP - I am creating divulgative content for those beginners who struggle to find their way and the tech savies who want to learn something new from other areas.
+I mentor developers who are starting in their career to define their own roadmap or help more senior developers navigate in enterprise software set ups.
+
+Slowly trying to come back to contribute to the community as speaker and content creator. (Mental Health is important)
 
 ## What am I learning?
 
-- <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> VueJS 
 - 📈 Data Visualization
+- 🕸 Tech Organisation
 
 ## Contact 
 I would like to get in contact with more people interested in sharing knowledge, if you have a v/blog, podcast or simply want to chat for a bit you can reach me at:
@@ -25,6 +27,7 @@ I would like to get in contact with more people interested in sharing knowledge,
 - 🧠 Deep Learning and Deep Reinforcement Learning ([Udacity](https://www.udacity.com/))
 
 ### I worked at...
-- 💵 Tech Lead and Software Engineer @ PayPal
-- 🏅 Software Engineer @ Kambi
+- 🚛 Senior Software Engineer & Engineer Manager @ [Glovo](https://engineering.glovoapp.com/)
+- 💵 Tech Lead and Software Engineer @ [PayPal](https://paypal.com)
+- 🏅 Software Engineer @ [Kambi](https://www.kambi.com/)
 - 👨‍🔬 Freelenace Developer
