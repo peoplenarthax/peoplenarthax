@@ -1,6 +1,6 @@
 # Angel Paredes Barato - @PeopleNArthax
 
-Hello everyone! My name is Angel and I am a full-stack developer (more focus on FE but with a good system vision) who likes to play and experiment.
+Hello everyone! My name is Angel and I am a full-stack developer (more focus on FE but with a good system vision), a technical leader and a life-time researcher/learner.
 
 ## What am I doing?
 
@@ -10,8 +10,8 @@ Slowly trying to come back to contribute to the community as speaker and content
 
 ## What am I learning?
 
-- 📈 Data Visualization
 - 🕸 Tech Organisation
+- 💡 Product economics 
 
 ## Contact 
 I would like to get in contact with more people interested in sharing knowledge, if you have a v/blog, podcast or simply want to chat for a bit you can reach me at:
@@ -27,6 +27,7 @@ I would like to get in contact with more people interested in sharing knowledge,
 - 🧠 Deep Learning and Deep Reinforcement Learning ([Udacity](https://www.udacity.com/))
 
 ### I worked at...
+- 📈 Engineering Leadership @ [DataDog](https://datadoghq.com)
 - 🚛 Senior Software Engineer & Engineer Manager @ [Glovo](https://engineering.glovoapp.com/)
 - 💵 Tech Lead and Software Engineer @ [PayPal](https://paypal.com)
 - 🏅 Software Engineer @ [Kambi](https://www.kambi.com/)
